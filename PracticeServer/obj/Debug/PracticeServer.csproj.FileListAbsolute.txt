@@ -1,0 +1,11 @@
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\bin\Debug\PracticeServer.exe.config
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\bin\Debug\PracticeServer.exe
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\bin\Debug\PracticeServer.pdb
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.csprojAssemblyReference.cache
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.Properties.Resources.resources
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.csproj.GenerateResource.cache
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.csproj.CoreCompileInputs.cache
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.exe
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.pdb
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\obj\Debug\PracticeServer.PeopleForm.resources
+C:\Users\vv063115\source\repos\PracticeServer\PracticeServer\bin\Debug\DemoDb.db

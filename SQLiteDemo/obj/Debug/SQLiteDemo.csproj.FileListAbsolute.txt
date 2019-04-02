@@ -1,0 +1,17 @@
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\SQLiteDemo.exe.config
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\SQLiteDemo.exe
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\EntityFramework.dll
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\EntityFramework.xml
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\obj\Debug\SQLiteDemo.csprojAssemblyReference.cache
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.CoreCompileInputs.cache
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.CopyComplete
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\obj\Debug\SQLiteDemo.exe
+C:\Users\vv063115\source\repos\PracticeServer\SQLiteDemo\obj\Debug\SQLiteDemo.pdb
